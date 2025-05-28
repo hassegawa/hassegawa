@@ -52,5 +52,4 @@ Here are some ideas to get you started:
 -->
 
 ----
-
-[![Foo](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/hassegawa)    
+ 
